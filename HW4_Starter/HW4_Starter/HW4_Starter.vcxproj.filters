@@ -50,9 +50,6 @@
     <ClCompile Include="GeneratedFiles\qrc_hw4_starter.cpp">
       <Filter>Generated Files</Filter>
     </ClCompile>
-    <ClCompile Include="Steganography.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="hw4_starter.h">

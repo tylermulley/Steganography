@@ -1,3 +1,10 @@
+//	Tyler Mulley
+//	11/3/15
+//	hw4_starter.h
+//	this file provides the declaration for the QT class 
+//	and its many members.
+
+
 #pragma comment(lib,"BMP_Handler32d")
 
 #ifndef HW4_STARTER_H

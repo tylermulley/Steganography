@@ -90,7 +90,6 @@
     </ClCompile>
     <ClCompile Include="hw4_starter.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Steganography.cpp" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="hw4_starter.h">

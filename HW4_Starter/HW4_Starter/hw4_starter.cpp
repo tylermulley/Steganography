@@ -1,3 +1,9 @@
+//	Tyler Mulley
+//	11/3/15
+//	hw4_starter.cpp
+//	this file provides the implementation for the QT class 
+//	and its many members.
+
 #include "hw4_starter.h"
 
 #include <QString>

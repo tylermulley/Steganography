@@ -1,3 +1,8 @@
+//	Tyler Mulley
+//	11/3/2015
+//	Steganography.h
+//	this file provides the declaration and implementation for the steganography
+//	class and its many members.
 
 #include <BMP_Handler.h>
 #include <vector>
